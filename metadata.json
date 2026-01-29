@@ -1,0 +1,5 @@
+{
+  "name": "EduMind: PDF Learning & Mind Mapping",
+  "description": "An intelligent learning platform that extracts lessons from PDF books and generates interactive mind maps using Gemini AI.",
+  "requestFramePermissions": []
+}
